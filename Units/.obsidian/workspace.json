@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6c364b47ab0e7714",
+            "id": "bb1ece32eac8123f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Acceleration.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Acceleration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Acceleration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Acceleration.md"
+              }
             }
           }
         ]
@@ -138,6 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c364b47ab0e7714",
-  "lastOpenFiles": []
+  "active": "bb1ece32eac8123f",
+  "lastOpenFiles": [
+    "direction.md",
+    "energy.md",
+    "Acceleration.md",
+    "Speed.md"
+  ]
 }
