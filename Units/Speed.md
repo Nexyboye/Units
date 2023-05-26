@@ -1,2 +1,2 @@
 
-Equal to one at all times, notated by $c$
+speed is a dimensionless number 1

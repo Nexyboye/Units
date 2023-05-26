@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acceleration.md",
+                "file": "energy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Acceleration.md",
+                "file": "energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Acceleration.md",
+                "file": "energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Acceleration.md"
+                "file": "energy.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "bb1ece32eac8123f",
   "lastOpenFiles": [
+    "acceleration.md",
     "direction.md",
-    "energy.md",
-    "Acceleration.md",
-    "Speed.md"
+    "Speed.md",
+    "energy.md"
   ]
 }
