@@ -1,2 +1,2 @@
-# units
+# Units
 Obsidian Vault - Units
