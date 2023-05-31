@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "29415333ee0e9618",
+        "id": "88e5ebbf9e52e946",
         "type": "tabs",
         "children": [
           {
-            "id": "bb1ece32eac8123f",
+            "id": "bb92aa61b4ae5071",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "energy.md",
+                "file": "Formulas/Classical Physics/Angular Acceleration.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "energy.md",
+                "file": "Formulas/Classical Physics/Angular Acceleration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "energy.md",
+                "file": "Formulas/Classical Physics/Angular Acceleration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "energy.md"
+                "file": "Formulas/Classical Physics/Angular Acceleration.md"
               }
             }
           }
@@ -146,11 +146,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb1ece32eac8123f",
+  "active": "bb92aa61b4ae5071",
   "lastOpenFiles": [
-    "acceleration.md",
-    "direction.md",
-    "Speed.md",
-    "energy.md"
+    "Formulas/Classical Physics/Angular Velocity.md",
+    "Formulas/Classical Physics/Angular Acceleration.md",
+    "Formulas/Classical Physics/Arc Length.md",
+    "Formulas/Classical Physics/Moment of Inertia.md",
+    "Formulas/Classical Physics/Angular Displacement.md",
+    "Formulas/Classical Physics/Momentum.md",
+    "Formulas/Classical Physics/Torque.md",
+    "My Ideas/Acceleration.md",
+    "My Ideas",
+    "My Ideas/Speed.md",
+    "Untitled.md",
+    "Measurement/Farad.md",
+    "Formulas/Classical Physics",
+    "Formulas",
+    "Measurement/Weber.md",
+    "Measurement/Volt.md",
+    "Measurement/Tesla.md",
+    "Measurement/Second.md",
+    "Measurement/Newton.md",
+    "Measurement/Kilogram.md",
+    "Measurement/Meter.md",
+    "My Ideas/Energy.md",
+    "Measurement",
+    "My Ideas/Direction.md"
   ]
 }
