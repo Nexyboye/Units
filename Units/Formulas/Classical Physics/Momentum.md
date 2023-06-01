@@ -2,5 +2,5 @@
 $$p = m \cdot v$$
 
 where
-	m = mass of the object
-	v = velocity of the object
+	m = [Mass] of the object
+	v = [Velocity] of the object

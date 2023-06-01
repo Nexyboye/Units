@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formulas/Classical Physics/Angular Acceleration.md",
+                "file": "Formulas/Relativity/Einstein Field Equations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formulas/Classical Physics/Angular Acceleration.md",
+                "file": "Formulas/Relativity/Einstein Field Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formulas/Classical Physics/Angular Acceleration.md",
+                "file": "Formulas/Relativity/Einstein Field Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formulas/Classical Physics/Angular Acceleration.md"
+                "file": "Formulas/Relativity/Einstein Field Equations.md"
               }
             }
           }
@@ -148,16 +148,28 @@
   },
   "active": "bb92aa61b4ae5071",
   "lastOpenFiles": [
-    "Formulas/Classical Physics/Angular Velocity.md",
-    "Formulas/Classical Physics/Angular Acceleration.md",
-    "Formulas/Classical Physics/Arc Length.md",
-    "Formulas/Classical Physics/Moment of Inertia.md",
     "Formulas/Classical Physics/Angular Displacement.md",
+    "Formulas/Relativity/Einstein Field Equations.md",
+    "Formulas/Relativity",
+    "Formulas/Classical Physics/Angular Acceleration.md",
     "Formulas/Classical Physics/Momentum.md",
+    "Formulas/Classical Physics/Moment of Inertia.md",
+    "Formulas/Classical Physics/Arc Length.md",
+    "Formulas/Classical Physics/Angular Velocity.md",
+    "Formulas/Classical Physics/Time Interval.md",
     "Formulas/Classical Physics/Torque.md",
+    "Formulas/Mass.md",
+    "Formulas/Math/Radius.md",
     "My Ideas/Acceleration.md",
-    "My Ideas",
+    "My Ideas/Energy dimension.md",
+    "My Ideas/Relative Velocity.md",
+    "My Ideas/position of stuff.md",
+    "My Ideas/Direction.md",
+    "Formulas/Classical Physics/Change.md",
     "My Ideas/Speed.md",
+    "My Ideas/Time.md",
+    "Formulas/Math",
+    "My Ideas",
     "Untitled.md",
     "Measurement/Farad.md",
     "Formulas/Classical Physics",
@@ -167,10 +179,6 @@
     "Measurement/Tesla.md",
     "Measurement/Second.md",
     "Measurement/Newton.md",
-    "Measurement/Kilogram.md",
-    "Measurement/Meter.md",
-    "My Ideas/Energy.md",
-    "Measurement",
-    "My Ideas/Direction.md"
+    "Measurement"
   ]
 }

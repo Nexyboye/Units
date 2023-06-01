@@ -1,0 +1,2 @@
+
+position is just a bunch of distances and angles pointing to a dot. The dot itself is 0.d so cannot be defined without some relative stuff. so position is basicly not a scalar, it is a vector quality. (for more than 1 dimensions)

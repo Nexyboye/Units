@@ -7,3 +7,6 @@ the change on the 3 angles of a hyperspherical coordinate system
 
 
 cos(angle) represents a ratio to the speed of causality.
+
+
+basicly it is angular velocity
