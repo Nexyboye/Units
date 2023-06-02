@@ -14,6 +14,7 @@ where
 	d = Diameter
 
 $$r = \frac{s}{θ}$$
+
 where
 	s = [[Arc Length]]
 	θ = [[Angular Displacement]]
