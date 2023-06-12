@@ -1,2 +1,2 @@
 
-$$δt = t_{final} - t_{initial}$$
+$$\Delta t = t_{final} - t_{initial}$$

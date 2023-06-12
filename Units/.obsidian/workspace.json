@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formulas/Relativity/Ricci Tensor.md",
+                "file": "Formulas/Relativity/Einstein Tensor.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formulas/Relativity/Ricci Tensor.md",
+                "file": "Formulas/Relativity/Einstein Tensor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formulas/Relativity/Ricci Tensor.md",
+                "file": "Formulas/Relativity/Einstein Tensor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formulas/Relativity/Ricci Tensor.md"
+                "file": "Formulas/Relativity/Einstein Tensor.md"
               }
             }
           }
@@ -148,22 +148,25 @@
   },
   "active": "bb92aa61b4ae5071",
   "lastOpenFiles": [
-    "Pasted image 20230602155233.png",
-    "Formulas/Relativity/Einstein Tensor.md",
     "Formulas/Relativity/Ricci Tensor.md",
+    "Formulas/Relativity/Scalar Curviture.md",
+    "Formulas/Relativity/Riemann Curviture Tensor.md",
+    "Formulas/Relativity/Einstein Tensor.md",
     "Formulas/Relativity/Einstein Field Equations.md",
     "Formulas/Math/Negative Exponent Rule.md",
-    "Formulas/Classical Physics/Torque.md",
-    "Formulas/Classical Physics/Moment of Inertia.md",
-    "Formulas/Classical Physics/Energy Density.md",
-    "Constants/Physics/Cosmological Constant.md",
-    "Formulas/Classical Physics/Angular Acceleration.md",
-    "Formulas/Classical Physics/Angular Displacement.md",
+    "Formulas/Classical Physics/Time Interval.md",
     "Formulas/Classical Physics/Momentum.md",
+    "Formulas/Classical Physics/Torque.md",
+    "Formulas/Math/Radius.md",
+    "Formulas/Math/Product Rule for Radicals.md",
+    "Formulas/Classical Physics/Energy Density.md",
     "Formulas/Classical Physics/Arc Length.md",
     "Formulas/Classical Physics/Angular Velocity.md",
-    "Formulas/Math/Radius.md",
-    "Formulas/Classical Physics/Time Interval.md",
+    "Formulas/Classical Physics/Angular Displacement.md",
+    "Formulas/Classical Physics/Angular Acceleration.md",
+    "Formulas/Classical Physics/Moment of Inertia.md",
+    "Pasted image 20230602155233.png",
+    "Constants/Physics/Cosmological Constant.md",
     "Constants/Physics",
     "Constants",
     "Formulas/Relativity",
@@ -175,10 +178,8 @@
     "My Ideas/Direction.md",
     "Formulas/Classical Physics/Change.md",
     "My Ideas/Speed.md",
-    "My Ideas/Time.md",
     "Formulas/Math",
     "My Ideas",
-    "Untitled.md",
     "Formulas/Classical Physics",
     "Formulas",
     "Measurement"
